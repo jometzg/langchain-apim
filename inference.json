@@ -7,10 +7,10 @@
   },
   "servers": [
     {
-      "url": "https://Phi-3-5-mini-instruct-gxmkx.swedencentral.models.ai.azure.com/",
+      "url": "https://XXXXX.swedencentral.models.ai.azure.com/",
       "variables": {
         "endpoint": {
-          "default": "Phi-3-5-mini-instruct-gxmkx.swedencentral.models.ai.azure.com"
+          "default": "XXXXXXX.swedencentral.models.ai.azure.com"
         }
       }
     }
